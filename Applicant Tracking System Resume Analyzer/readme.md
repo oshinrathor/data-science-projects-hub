@@ -19,13 +19,13 @@ This is a Streamlit-based ATS (Applicant Tracking System) Resume Analyzer that l
 The following images illustrate the app's interface and output:
 
 ----------------------------------------
-|           ![Screenshot 10](screenshots/screenshot10.png)             |
+|           ![Screenshot 10](Applicant%20Tracking%20System%20Resume%20Analyzer/Screenshot%2010.png)            |
 ----------------------------------------
-|           ![Screenshot 11](screenshots/screenshot11.png)             |
+|           ![Screenshot 11](Applicant%20Tracking%20System%20Resume%20Analyzer/Screenshot%2011.png)            |
 ----------------------------------------
-|           ![Screenshot 12](screenshots/screenshot12.png)             |
+|           ![Screenshot 12](Applicant%20Tracking%20System%20Resume%20Analyzer/Screenshot%2012.png)            |
 ----------------------------------------
-|           ![Screenshot 13](screenshots/screenshot13.png)             |
+|           ![Screenshot 13](Applicant%20Tracking%20System%20Resume%20Analyzer/Screenshot%2013.png)            |
 ----------------------------------------
 
 ---
@@ -106,3 +106,4 @@ The app dynamically responds based on the button clicked:
 - [Streamlit](https://streamlit.io/) for building the web interface.  
 - [Google Gemini AI](https://developers.generativeai.google/) for resume analysis.  
 - [pdf2image](https://pypi.org/project/pdf2image/) for PDF to image conversion.  
+
