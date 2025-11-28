@@ -18,21 +18,21 @@ This is a Streamlit-based ATS (Applicant Tracking System) Resume Analyzer that l
 ## SCREENSHOTS
 The following images illustrate the app's interface and output:
 
-<table width="100%" cellspacing="10">
+<table width="100%" cellspacing="15">
   <tr>
     <td style="background-color: #fefefe; text-align:center; padding:10px; width:50%;">
-      <img src="Screenshot 10.png" width="480" />
+      <img src="Screenshot 10.png" width="550" />
     </td>
     <td style="background-color: #fefefe; text-align:center; padding:10px; width:50%;">
-      <img src="Screenshot 11.png" width="480" />
+      <img src="Screenshot 11.png" width="550" />
     </td>
   </tr>
   <tr>
     <td style="background-color: #fefefe; text-align:center; padding:10px; width:50%;">
-      <img src="Screenshot 12.png" width="480" />
+      <img src="Screenshot 12.png" width="550" />
     </td>
     <td style="background-color: #fefefe; text-align:center; padding:10px; width:50%;">
-      <img src="Screenshot 13.png" width="480" />
+      <img src="Screenshot 13.png" width="550" />
     </td>
   </tr>
 </table>
@@ -115,6 +115,7 @@ The app dynamically responds based on the button clicked:
 - [Streamlit](https://streamlit.io/) for building the web interface.  
 - [Google Gemini AI](https://developers.generativeai.google/) for resume analysis.  
 - [pdf2image](https://pypi.org/project/pdf2image/) for PDF to image conversion.  
+
 
 
 
